@@ -39,6 +39,11 @@ enableRobotsTXT = true
     weight = -110
 
   [[menu.main]]
+    name = "Events"
+    url = "https://noops.connpass.com"
+    weight = -100
+
+  [[menu.main]]
     name = "Code of Conduct"
     url = "/codeofconduct/"
     weight = -80
