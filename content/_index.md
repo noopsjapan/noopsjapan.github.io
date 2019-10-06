@@ -15,9 +15,9 @@ NoOps = No "Uncomfortable" Ops
 
 NoOps Japanでは 「システム運用保守の"嬉しくないこと"をなくそう！」 をテーマに、 NoOpsを実現するための技術・設計手法・開発運用保守サイクル・ツールや考え方・事例などを共有していきたいと考えています。詳細は[Definition](/definition)をご覧ください。
 
-<!-- ---
+---
 
-{{< profiles "Supporters" "supporters" >}} -->
+{{< profiles "Supporters" "supporters" >}}
 
 ---
 
