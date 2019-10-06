@@ -5,43 +5,111 @@
 # url = "abc.notrealntld/about"
 
 [[list]]
-name = "日本Microsoft"
-image = "/sponsors/Microsoft-logo_rgb_c-gray.png"
+image = "/supporters/HiroshiShimizu.png"
+name = "Hiroshi Shimizu"
 
 [[list]]
-name = "ヤフー株式会社 Yahoo Japan Corporation"
-image = "/sponsors/Yahoo-logo.png"
+image = "/supporters/IanLewis.png"
+name = "Ian Lewis"
 
 [[list]]
-name = "富士通クラウドテクノロジーズ株式会社様"
+image = "/supporters/KazumiHirose.png"
+name = "Kazumi Hirose"
 
 [[list]]
-name = "ソフトバンク株式会社"
+image = "/supporters/KazunoriHirano.png"
+name = "Kazunori Hirano"
 
 [[list]]
-name = "フォークウェル"
+image = "/supporters/KazutoKusama.png"
+name = "Kazuto Kusama"
 
 [[list]]
-name = "WeWork"
+image = "/supporters/KeisukeNishitani.png"
+name = "Keisuke Nishitani"
 
 [[list]]
-name = "ZOZOテクノロジーズ"
+image = "/supporters/KodaiSakabe.png"
+name = "Kodai Sakabe"
 
 [[list]]
-name = "NAVITIME JAPAN"
-image = "/sponsors/navitime-logo.gif"
+image = "/supporters/MinoruTsuka.png"
+name = "Minoru Tsuka"
 
 [[list]]
-name = "ソフトバンク Technical Meister"
+image = "/supporters/NaokiSato.png"
+name = "Naoki Sato"
 
 [[list]]
-name = "WingArc1st"
+image = "/supporters/NoriyoshiShinoda.png"
+name = "Noriyoshi Shinoda"
 
 [[list]]
-name = "NetApp Japan"
+image = "/supporters/OKIYoshiya.png"
+name = "OKI Yoshiya"
 
 [[list]]
-name = "アサヒグループホールディングス株式会社"
+name = "Riki Sato"
+image = "/supporters/RikiSato.png"
 
 [[list]]
-name = "株式会社grooves"
+image = "/supporters/RyukiYoshimatsu.png"
+name = "Ryuki Yoshimatsu"
+
+[[list]]
+image = "/supporters/TakuyaTakeda.png"
+name = "Takuya Takeda"
+
+[[list]]
+image = "/supporters/ToruMakabe.png"
+name = "Toru Makabe"
+
+[[list]]
+image = "/supporters/ToshinoriSugita.png"
+name = "Toshinori Sugita"
+
+[[list]]
+image = "/supporters/TsuyoshiUshio.png"
+name = "Tsuyoshi Ushio"
+
+[[list]]
+image = "/supporters/YamamotoHirotaka.png"
+name = "Yamamoto Hirotaka"
+
+[[list]]
+image = "/supporters/YoshioTerada.png"
+name = "Yoshio Terada"
+
+[[list]]
+image = "/supporters/YusukeSuzuki.png"
+name = "Yusuke Suzuki"
+
+[[list]]
+image = "/supporters/johtani.png"
+name = "johtani"
+
+[[list]]
+image = "/supporters/katsuhisa.png"
+name = "katsuhisa"
+
+[[list]]
+image = "/supporters/kawasima.png"
+name = "kawasima"
+
+[[list]]
+image = "/supporters/kimhirokuni.png"
+name = "kimhirokuni"
+
+[[list]]
+image = "/supporters/shibayan.png"
+name = "shibayan"
+
+[[list]]
+image = "/supporters/ymotongpoo.png"
+name = "ymotongpoo"
+
+[[list]]
+name = "Tomoaki Nakajima"
+
+[[list]]
+name = "matsuko365"
