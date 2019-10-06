@@ -1,36 +1,82 @@
 .navbar-logo {
-    height: 55px;
+  height: 55px;
 }
 
 .cover.bg-top {
-    min-height: 100vh;
+  min-height: 100vh;
 }
 
 .header-logo {
-    height: 20rem;
+  height: 20rem;
 }
 
 .profile-container {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .profile {
-    margin: 1rem;
-    display: flex;
-    flex-direction: column;
-    width: 150px;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  width: 150px;
 }
 
 .profile img.avatar {
-    height: 5rem;
-    width: auto;
-    border-radius: 4px;
+  height: 5rem;
+  width: auto;
+  border-radius: 4px;
 }
 
+.is-mobile {
+  display: none;
+}
+
+.mobile-navbar-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mobile-navbar-links {
+}
 
 /* overrides */
 .measure-wide {
-    max-width: 60rem;
+  max-width: 60rem;
+}
+
+@media (max-device-width: 690px) {
+  .profile {
+    width: 90px;
+  }
+  .header-logo {
+    height: auto;
+    width: 100%;
+  }
+
+  .is-mobile {
+    display: initial;
+  }
+
+  .mobile-navbar {
+    display: flex;
+    align-content: space-around;
+  }
+
+  .is-not-mobile {
+    display: none;
+  }
+  .mobile-navbar-links {
+    display: flex;
+    justify-content: space-around;
+    margin: 2px;
+  }
+  .mobile-navbar-links > li {
+      padding: 0px !important;
+  }
+  .mobile-cover {
+      height: 100vh;
+  }
 }
