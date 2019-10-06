@@ -3,10 +3,10 @@ description: 'NoOps = no "uncomfortable ops"'
 ---
 # What is NoOPs
 
-{{% content "community/DEFINITION.md" %}}
+<!-- ---
 
-{{< supporters >}}
+{{< profiles "Supporters" "supporters" >}} -->
 
-<!-- {{% content "community/CODE_OF_CONDUCT.md" %}} -->
+---
 
-{{< staff >}}
+{{< profiles "Members" "members" >}}
