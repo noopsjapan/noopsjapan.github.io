@@ -2,6 +2,10 @@
     height: 55px;
 }
 
+.cover.bg-top {
+    min-height: 100vh;
+}
+
 .header-logo {
     height: 20rem;
 }
