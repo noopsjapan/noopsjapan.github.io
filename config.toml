@@ -30,22 +30,6 @@ enableRobotsTXT = true
 [languages]
     [languages.en]
         title="NoOps Japan"
-    [languages.ja]
-        title="NoOps Japan"
-[languages.ja.menu]
-    [[languages.ja.menu.main]]
-        identifier = "Home"
-        name = "ホーム"
-        url = "/ja/"
-        weight = -110
-    [[languages.ja.menu.main]]
-      name = "Code of Conduct"
-      url = ""
-      weight = -80
-    [[languages.ja.menu.main]]
-      name = "NoOpsとは？"
-      url = "/ja/definition/"
-      weight = -90
 
 [menu]
   [[menu.main]]

@@ -1,5 +1,0 @@
-# NoOps Japanとは
-
-
-
-{{< staff >}}
