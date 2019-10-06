@@ -1,0 +1,11 @@
+<h2>Staff</h2>
+<div class="staff-container">
+{{ range $.Site.Data.staff.staff}}
+<span class="staff">
+    <span>
+        <img src="{{ .image | default "/logo.png" }}" alt="{{.name}}" class="avatar">
+    </span>
+    {{ .name }}
+</span>
+{{ end }}
+</div>

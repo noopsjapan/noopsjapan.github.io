@@ -1,0 +1,9 @@
+<h2>Supporters</h2>
+<div class="supporter-container">
+    {{ range $.Site.Data.supporters.supporter}}
+    <span class="supporter">
+        <img src="{{ .image | default "/logo.png" }}" alt="{{.name}}" class="logo">
+        {{ .name }}
+    </span>
+    {{ end }}
+</div>

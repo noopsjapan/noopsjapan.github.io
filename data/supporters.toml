@@ -1,0 +1,47 @@
+# sample of expected structure
+# [[supporter]]
+# name = "ABC co. ltd"
+# image = "abc_logo.png"
+# url = "abc.notrealntld/about"
+
+[[supporter]]
+name = "日本Microsoft"
+image = "/sponsors/Microsoft-logo_rgb_c-gray.png"
+
+[[supporter]]
+name = "ヤフー株式会社 Yahoo Japan Corporation"
+image = "/sponsors/Yahoo-logo.png"
+
+[[supporter]]
+name = "富士通クラウドテクノロジーズ株式会社様"
+
+[[supporter]]
+name = "ソフトバンク株式会社"
+
+[[supporter]]
+name = "フォークウェル"
+
+[[supporter]]
+name = "WeWork"
+
+[[supporter]]
+name = "ZOZOテクノロジーズ"
+
+[[supporter]]
+name = "NAVITIME JAPAN"
+image = "/sponsors/navitime-logo.gif"
+
+[[staff]]
+name = "ソフトバンク Technical Meister"
+
+[[staff]]
+name = "WingArc1st"
+
+[[staff]]
+name = "NetApp Japan"
+
+[[staff]]
+name = "アサヒグループホールディングス株式会社"
+
+[[staff]]
+name = "株式会社grooves"
