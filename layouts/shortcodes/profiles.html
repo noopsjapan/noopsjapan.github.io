@@ -2,6 +2,8 @@
 <div class="profile-container">
   {{ $data := index .Site.Data (.Get 1) }}
   {{ range $data.list }}
+
+  {{ if(.url) }} <a href="{{ .url }}">{{ end }}
   <span class="profile">
     <span>
       <img src="{{ .image | default "/logo.png" }}" alt="{{.name}}"
@@ -9,5 +11,7 @@
     </span>
     {{ .name }}
   </span>
+  {{ if(.url) }} </a> {{ end }}
+
   {{ end }}
 </div>
