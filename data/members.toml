@@ -1,62 +1,62 @@
 # SAMPLE ENTITY
-# [[staff]]
+# [[list]]
 # name = "Oka-san"
 # image = "supporter image"
 # url = "https://github.com/<userId>"
 
-[[staff]]
+[[list]]
 name = "Hiromasa Oka"
-image = "/staff/HiromasaOka.png"
+image = "/members/HiromasaOka.png"
 url = "https://github.com/okahiromasa"
 
-[[staff]]
+[[list]]
 name = "Yoichi Kawasaki"
-image = "/staff/YoichiKawasaki.png"
+image = "/members/YoichiKawasaki.png"
 url = "https://github.com/yokawasa"
 
-[[staff]]
+[[list]]
 name = "Kyohei Moriyama"
-image = "/staff/KyoheiMoriyama.png"
+image = "/members/KyoheiMoriyama.png"
 url = "https://github.com/sasukeh"
 
-[[staff]]
+[[list]]
 name = "Atsushi Yokohama"
-image = "/staff/AtsushiYokohama.png"
+image = "/members/AtsushiYokohama.png"
 
-[[staff]]
+[[list]]
 name = "Yuki Hattori"
-image = "/staff/YukiHattori.png"
+image = "/members/YukiHattori.png"
 url = "https://github.com/yuhattor"
 
-[[staff]]
+[[list]]
 name = "dz_"
-image = "/staff/dz_.png"
+image = "/members/dz_.png"
 url = "https://github.com/dzeyelid"
 
-[[staff]]
+[[list]]
 name = "James Roberts"
-image = "/staff/JamesRoberts.png"
+image = "/members/JamesRoberts.png"
 url = "https://github.com/Robjam"
 
-[[staff]]
+[[list]]
 name = "Masanobu Sato"
-image = "/staff/MasanobuSato.png"
+image = "/members/MasanobuSato.png"
 url = "https://github.com/miyavi0406"
 
-[[staff]]
+[[list]]
 name = "Toru Igarashi"
-image = "/staff/ToruIgarashi.png"
+image = "/members/ToruIgarashi.png"
 url = "https://github.com/iganari"
 
-[[staff]]
+[[list]]
 name = "Yuki Chiba"
-image = "/staff/YukiChiba.png"
+image = "/members/YukiChiba.png"
 url = "https://github.com/yuuki-chiba"
 
-[[staff]]
+[[list]]
 name = "Shinichi Suwa"
-image = "/staff/ShinichiSuwa.png"
+image = "/members/ShinichiSuwa.png"
 
-[[staff]]
+[[list]]
 name = "Sakakibara"
-image = "/staff/Sakakibara.png"
+image = "/members/Sakakibara.png"
