@@ -1,10 +1,7 @@
-## 目的
+## purpose
 
-- <実装の目的を一文ぐらいで>
+- Please briefly describe your purpose
 
-## やったこと
+## What you did
 
-- <実装の技術的な内容を>
-- <箇条書きで>
-- <書く>
-
+- Please explain the changes you made from a technical point of view
