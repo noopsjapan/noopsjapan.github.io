@@ -6,37 +6,23 @@
     height: 20rem;
 }
 
-.staff-container, .supporter-container {
+.profile-container {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
 
-.supporter {
-    margin: 1rem 3rem;
+.profile {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
     width: 150px;
 }
 
-.supporter img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-.staff, .supporter {
-    display: flex;
-    flex-direction: column;
-}
-
-.staff img.avatar {
+.profile img.avatar {
     height: 5rem;
     width: auto;
     border-radius: 4px;
-}
-
-.supporter img.logo {
-    height: 6rem;
-    width: auto;
 }
 
 
