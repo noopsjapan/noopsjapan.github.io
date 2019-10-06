@@ -5,28 +5,58 @@
 # url = "https://github.com/<userId>"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Hiromasa Oka"
+image = "/staff/HiromasaOka.png"
+url = "https://github.com/okahiromasa"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Yoichi Kawasaki"
+image = "/staff/YoichiKawasaki.png"
+url = "https://github.com/yokawasa"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Kyohei Moriyama"
+image = "/staff/KyoheiMoriyama.png"
+url = "https://github.com/sasukeh"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Atsushi Yokohama"
+image = "/staff/AtsushiYokohama.png"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Yuki Hattori"
+image = "/staff/YukiHattori.png"
+url = "https://github.com/yuhattor"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "dz_"
+image = "/staff/dz_.png"
+url = "https://github.com/dzeyelid"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "James Roberts"
+image = "/staff/JamesRoberts.png"
+url = "https://github.com/Robjam"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Masanobu Sato"
+image = "/staff/MasanobuSato.png"
+url = "https://github.com/miyavi0406"
 
 [[staff]]
-name = "Yamada Tarou"
+name = "Toru Igarashi"
+image = "/staff/ToruIgarashi.png"
+url = "https://github.com/iganari"
+
+[[staff]]
+name = "Yuki Chiba"
+image = "/staff/YukiChiba.png"
+url = "https://github.com/yuuki-chiba"
+
+[[staff]]
+name = "Shinichi Suwa"
+image = "/staff/ShinichiSuwa.png"
+
+[[staff]]
+name = "Sakakibara"
+image = "/staff/Sakakibara.png"
